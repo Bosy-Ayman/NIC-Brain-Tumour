@@ -1,1 +1,1 @@
-# NIC-Brain-Tumour
+# NIC-Brain-Tumor
